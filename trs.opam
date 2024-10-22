@@ -14,6 +14,7 @@ bug-reports: "https://github.com/jajimajp/trs/issues"
 depends: [
   "ocaml"
   "dune" {>= "3.16"}
+  "menhir"
   "odoc" {with-doc}
 ]
 build: [
