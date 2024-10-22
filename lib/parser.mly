@@ -1,7 +1,6 @@
 %token EOF
 
 %token <Types.id> ID
-%token <string> STRING
 %token LPAREN
 %token RPAREN
 %token ARROW
