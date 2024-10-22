@@ -1,2 +1,2 @@
 # trs
-Parsing library for TRS format (The format for first-order rewrite systems).
+trs is a parsing library for the TRS format, the format for first-order rewrite systems.

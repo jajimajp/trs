@@ -1,0 +1,8 @@
+(ocamllex lexer)
+
+(menhir
+ (modules parser))
+
+(library
+ (public_name trs)
+ (name trs))
