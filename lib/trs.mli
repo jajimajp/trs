@@ -27,11 +27,7 @@
 
 (** {2 Types} *)
 
-type trs =
-  { var : id list option
-  ; rules : rule list
-  ; comment : string option
-  }
+type trs = { var : id list option; rules : rule list; comment : string option }
 (** [trs] is the representation of TRS format.
     Each record field corresponds to section if TRS: VAR, RULES, and COMMENT. *)
 
@@ -64,4 +60,3 @@ val string_of_trs : trs -> string
 val string_of_rule : rule -> string
 val string_of_term : term -> string
 val string_of_id : id -> string
-
