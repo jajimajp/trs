@@ -4,7 +4,7 @@ synopsis:
   "Parsing library for the TRS format, the format for first-order rewrite systems"
 description:
   "trs is a parsing library for the TRS format, the format for first-order rewrite systems."
-maintainer: ["Soichi Yajima"]
+maintainer: ["jajima.jp@gmail.com"]
 authors: ["Soichi Yajima"]
 license: "MIT"
 tags: ["trs" "rewrite systems"]

@@ -10,7 +10,7 @@
 
 (authors "Soichi Yajima")
 
-(maintainers "Soichi Yajima")
+(maintainers "jajima.jp@gmail.com")
 
 (license MIT)
 
