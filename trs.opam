@@ -9,7 +9,6 @@ authors: ["Soichi Yajima"]
 license: "MIT"
 tags: ["trs" "rewrite systems"]
 homepage: "https://github.com/jajimajp/trs"
-doc: "https://github.com/jajimajp/trs/"
 bug-reports: "https://github.com/jajimajp/trs/issues"
 depends: [
   "ocaml" {>= "4.12.0"}

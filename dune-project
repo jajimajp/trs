@@ -14,8 +14,6 @@
 
 (license MIT)
 
-(documentation https://github.com/jajimajp/trs/)
-
 (package
  (name trs)
  (synopsis "Parsing library for the TRS format, the format for first-order rewrite systems")
