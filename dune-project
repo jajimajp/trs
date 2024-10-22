@@ -20,7 +20,6 @@
  (description "trs is a parsing library for the TRS format, the format for first-order rewrite systems.")
  (depends
   (ocaml (>= 4.12.0))
-  (dune (>= 3.7))
   (menhir (>= 20211012)))
  (tags
   (trs "rewrite systems")))
